@@ -1,1 +1,2 @@
+GIF89a;
 just test
