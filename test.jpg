@@ -1,2 +1,4 @@
 GIF89a;
-just test
+<?php
+    system('phpinfo()');
+?>
